@@ -7,7 +7,7 @@
 
 # Other Informational CEPs
 
-# Accepted PEPs (approved; not implemented yet)
+# Accepted CEPs (approved; not implemented yet)
 
 - [CEP 2001: Question Formatting and Style Requirements](ceps/2001/README.md)
 - [CEP 2002: Question Type Requirements](ceps/2002/README.md)

@@ -16,7 +16,7 @@ This AIM of this CEP is to standardize the high-level structure around questions
 A question is a direct question on what must be answered in the Action card field in the SimSpace portal lab event. The answer format itself can change based on the response type. A question should contain the direct instruction for the answer(s).
 
 ### Requirements
-- Questions must be the last content in a slide to ensure it’s right above the Action card
+-  Questions must be the last content in a slide to ensure it’s right above the Action card
 - Questions must be in heading 2 font type
 - Questions must be limited to 250 words max
 

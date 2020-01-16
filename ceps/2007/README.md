@@ -18,16 +18,16 @@ A “Module Image” is any image used within a content module slide.
 
 ### Requirements
 
-* Every Module Introduction Slide should Include 1 concept image related to the content module.
-* Images should be large enough to read without manipulating zoom within browse.
-* All images used in content modules should have copyright license agreements.
-* All images must have ALT Text for WCAG2.0AA accessibility compliance.
-* All images included in slides must not exceed a max file size of 2.2 MB.
-* Current restriction based on current portal restrictions backwards compatibility.
-* All images included in content slides must have a caption;
-* The caption must be in bold font;
-* The caption must be centered below the image with no spaces between the image and the caption;
-* Any content that follows an image must have one blank line of space after the caption.
+*  Every Module Introduction Slide should Include 1 concept image related to the content module.
+*  Images should be large enough to read without manipulating zoom within browse.
+*  All images used in content modules should have copyright license agreements.
+*  All images must have ALT Text for WCAG2.0AA accessibility compliance.
+*  All images included in slides must not exceed a max file size of 2.2 MB.
+*  Current restriction based on current portal restrictions backwards compatibility.
+*  All images included in content slides must have a caption;
+*  The caption must be in bold font;
+*  The caption must be centered below the image with no spaces between the image and the caption;
+*  Any content that follows an image must have one blank line of space after the caption.
 
 ## References and Footnotes
 

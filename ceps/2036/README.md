@@ -7,14 +7,14 @@ This CEP documents the requirement to include "knowledge check" or "check on lea
 
 ## Rationale
 
-The aim of this CEP is to enfore the inclusion of this instructional design best practice. 
+The aim of this CEP is to enforce the inclusion of this instructional design best practice. 
 
 ## Specification
 
 ## Requirements
 
-* No more than an estimated 10 minutes of reading and un-assessed exercise should be included without a pause for check-on-learning.
-    * At least 1 question every 10 minutes.
+*  No more than an estimated 10 minutes of reading and un-assessed exercise should be included without a pause for check-on-learning.
+    *  At least 1 question every 10 minutes.
 
 ## References and Footnotes
 

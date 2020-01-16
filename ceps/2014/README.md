@@ -17,8 +17,8 @@ The “Module Table” is the best practice for certified content module on how 
 
 ### Requirements
 
-* Text Should be clear and readable in a table on at least 1080p screens.
-* Labels must be in bold format.
+*  Text Should be clear and readable in a table on at least 1080p screens.
+*  Labels must be in bold format.
 
 
 ## References and Footnotes

@@ -18,9 +18,9 @@ The “Module Command Formatting” is the best practices for having command lin
 
 ### Requirements
 
-* All command line text must be included in code format sections.
-* Command Line Example Screenshots may be used to display instruction or examples as long as the image smoothly scales across screen sizes while maintaining quality.
-* Following any command section in a slide a blank line must separate any following content sections. 
+*  All command line text must be included in code format sections.
+*  Command Line Example Screenshots may be used to display instruction or examples as long as the image smoothly scales across screen sizes while maintaining quality.
+*  Following any command section in a slide a blank line must separate any following content sections. 
 
 ## References and Footnotes
 

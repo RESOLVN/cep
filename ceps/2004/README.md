@@ -18,11 +18,11 @@ A “Question Retry” is the number of attempts a participant is allowed for on
 
 ### Requirements
 
-* Questions with the Response Type “Multiple choice” should have at least 1 retry.
-    * True/False variations should not have a retry.
-* Questions with the Response Type “Short answer” should have at least 2 retries.
-    * State of case sensitivity is a factor to consider
-* Questions with the Response Type “Multiple select” should have at least 2 retries.
+*  Questions with the Response Type “Multiple choice” should have at least 1 retry.
+    *  True/False variations should not have a retry.
+*  Questions with the Response Type “Short answer” should have at least 2 retries.
+    *  State of case sensitivity is a factor to consider
+*  Questions with the Response Type “Multiple select” should have at least 2 retries.
 
 ## References and Footnotes
 

@@ -19,9 +19,9 @@ CEP Types
  
 **Currently there are three types of CEP:**
 
-- A Features Track CEP describes a new feature or implementation for the SimSpace Portal.
-- An Informational CEP describes a non required design or process issue which currently lacks support to become a required standard. Content Developers are free to implement these ignore or use them.
-- A Process CEP describes a process or style surrounding the Portal or a Content Module, or proposes a change to a current CEP Style or Process implementation(not a change to the Portal). Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools, environment, or style used in Content Modules.
+-  A Features Track CEP describes a new feature or implementation for the SimSpace Portal.
+-  An Informational CEP describes a non required design or process issue which currently lacks support to become a required standard. Content Developers are free to implement these ignore or use them.
+-  A Process CEP describes a process or style surrounding the Portal or a Content Module, or proposes a change to a current CEP Style or Process implementation(not a change to the Portal). Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools, environment, or style used in Content Modules.
 
 ## CEP CEP Advisory Council
 
@@ -61,34 +61,34 @@ Once the co-delegate and core delegate agree the CEP is ready to be reviewed by 
 
 ### Stage 1: Submission
 
-- The CEP delegate forks the main CEP repository and creates a file named cep-9999.md that contains the new CEP. All drafts should use "9999"
-- In the Type Header field enter "Features Track", "Informational", or "Process" CEP
-- For the "Status" field use "Draft"
-- Push this commit to the Github fork and create a pull request
+-  The CEP delegate forks the main CEP repository and creates a file named cep-9999.md that contains the new CEP. All drafts should use "9999"
+-  In the Type Header field enter "Features Track", "Informational", or "Process" CEP
+-  For the "Status" field use "Draft"
+-  Push this commit to the Github fork and create a pull request
 
 ### Stage 2: Approval
 
-- The CEP editors review the PR for structure, formatting or other possible errors
-- Fully Complete, the proposal makes sense and is logically reasonable
-- Title accurately describes the content and idea
-- The CEP language(spelling, grammar, and sentence structure) and style(CEP approved) should be correct
-- The CEP will be checked by CI/CD and must pass all checks to be reviewed
-- Once approved, a new CEP number will be assigned
+-  The CEP editors review the PR for structure, formatting or other possible errors
+-  Fully Complete, the proposal makes sense and is logically reasonable
+-  Title accurately describes the content and idea
+-  The CEP language(spelling, grammar, and sentence structure) and style(CEP approved) should be correct
+-  The CEP will be checked by CI/CD and must pass all checks to be reviewed
+-  Once approved, a new CEP number will be assigned
 
 ### Stage 3: Review
 
-- Once the approval process is complete by the CEP editors the CEP editors will squash commit the pull request into master
-- The CEP editors will not unreasonably deny publication of a CEP
-- Reason for denying CEP status include duplication of effort, technically unsound, not providing proper documentation or backwards compatibility.
-- The final authority for a CEP approval is the CEP Advisory Council. A meeting takes place (insert time frame) that calls a vote on CEPs
-- Expedited votes can be called to vote on a single CEP in slack chat
-- It must be a clear and complete description of the proposed enhancement. The CEP must represent a net improvement. The proposed CEP, if applicable, must be solid and must not complicate the content modules development process.
+-  Once the approval process is complete by the CEP editors the CEP editors will squash commit the pull request into master
+-  The CEP editors will not unreasonably deny publication of a CEP
+-  Reason for denying CEP status include duplication of effort, technically unsound, not providing proper documentation or backwards compatibility.
+-  The final authority for a CEP approval is the CEP Advisory Council. A meeting takes place (insert time frame) that calls a vote on CEPs
+-  Expedited votes can be called to vote on a single CEP in slack chat
+-  It must be a clear and complete description of the proposed enhancement. The CEP must represent a net improvement. The proposed CEP, if applicable, must be solid and must not complicate the content modules development process.
 
 ### Stage 4: Verdict
 
-- Deferred: This is the status of a CEP that has been denied and not in revision. The CEP delegate can re-assign it to a draft status if applicable.
-- Rejected: The final rejection of a specific CEP. In the rejected verdict case the CEP can no longer be considered for approval again.
-- Accepted: The CEP is accepted and will be included in the next release of CEP standards.
+-  Deferred: This is the status of a CEP that has been denied and not in revision. The CEP delegate can re-assign it to a draft status if applicable.
+-  Rejected: The final rejection of a specific CEP. In the rejected verdict case the CEP can no longer be considered for approval again.
+-  Accepted: The CEP is accepted and will be included in the next release of CEP standards.
 
 ## CEP Maintenance
 
@@ -102,14 +102,14 @@ Informational and Process CEPs will continue to evolve over time as format and f
 
 **Each CEP should contain the following features:**
 
-- Abstract  (Required Version >= 0.0.2)
-- Rationale  (Required Version >= 0.0.2)
-- Specification  (Required Version >= 0.0.2)
-- Define the CEP
-- Requirements section
-- References and Footnotes (Required Version >= 0.0.2)
-- License/Copy (Required Version >= 1.0.0)
-- Acknowledgements  (Required Version >= 1.0.0)
+-  Abstract  (Required Version >= 0.0.2)
+-  Rationale  (Required Version >= 0.0.2)
+-  Specification  (Required Version >= 0.0.2)
+-  Define the CEP
+-  Requirements section
+-  References and Footnotes (Required Version >= 0.0.2)
+-  License/Copy (Required Version >= 1.0.0)
+-  Acknowledgements  (Required Version >= 1.0.0)
 
 ## Auxiliary Files
 
@@ -135,7 +135,7 @@ A CEP editor must have access and edit permissions to the Github repository. Nor
 
 ### New CEPs Process:
 
-- Ensure the CEP has a co-delegate and core delegate.
+-  Ensure the CEP has a co-delegate and core delegate.
 - Title represents the content and contains the core requirements.
 - Read the CEP for completeness(spelling, grammar, sentence structure). It should be sound logical, and to the point. 
 - The proposal should be technical sense even if it is accepted/rejected.

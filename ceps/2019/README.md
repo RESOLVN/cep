@@ -11,9 +11,9 @@ This CEP documents content module naming semantics and conventions for content m
 
 ### Requirements
 
-* Cheat sheets must be attached in the introduction slide.
-* Cheat sheets should be in pdf or png format.
-* Cheat sheets should include version numbers and author information.
+*  Cheat sheets must be attached in the introduction slide.
+*  Cheat sheets should be in pdf or png format.
+*  Cheat sheets should include version numbers and author information.
 
 ## References and Footnotes
 

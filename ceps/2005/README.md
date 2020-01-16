@@ -18,13 +18,13 @@ A “Module Introduction Card” is the first slide in any content module.
 
 ### Requirements
 
-* Introduction to the module name and category at the very top of the slide.
-* Time to complete in module metadata based on 1 minute per 200 words in a module.
-    * 200 words per minute is the average reading speed.
-* Must contain a learning objective section (See CEP 2000 for requirement information).
-* Must contain a learning outcome section (See CEP 2032 for requirement information).
-* Must contain toolkit details (See CEP 2006 for requirement information).
-* Title of module must be in heading 1 format.
+*  Introduction to the module name and category at the very top of the slide.
+*  Time to complete in module metadata based on 1 minute per 200 words in a module.
+    *  200 words per minute is the average reading speed.
+*  Must contain a learning objective section (See CEP 2000 for requirement information).
+*  Must contain a learning outcome section (See CEP 2032 for requirement information).
+*  Must contain toolkit details (See CEP 2006 for requirement information).
+*  Title of module must be in heading 1 format.
 * Title Modules require an image (See CEP 2007 for requirement information).
 
 ## References and Footnotes

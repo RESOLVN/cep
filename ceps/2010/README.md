@@ -17,9 +17,9 @@ This AIM of this CEP is to standardize the high-level structure around code incl
 The “Module Code” is any code related content that is included as text inside the content module slide.
 
 ### Requirements
-* All code text must be included in code format sections.
-* Code Example Screenshots may be used to display code as long as the image complies with CEP 2007.
-* Following any code sections in content module slides a blank line must separate any following content sections. 
+*  All code text must be included in code format sections.
+*  Code Example Screenshots may be used to display code as long as the image complies with CEP 2007.
+*  Following any code sections in content module slides a blank line must separate any following content sections. 
 
 ## References and Footnotes
 

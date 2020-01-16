@@ -17,22 +17,22 @@ A question type is what Response Type is selected in the **Action **card in the 
 
 ### Response Type Options:
 
-* Multiple Choice
-* Short Answer
-* Selections
-* External
-* Informational Card
+*  Multiple Choice
+*  Short Answer
+*  Selections
+*  External
+*  Informational Card
 
-- ![Action Card](cep-2002-action.png)
+-  ![Action Card](cep-2002-action.png)
 
 
 ### Requirements
 
-*   Response type that use “Multiple Choice” should have more than two possible answers.
-    *   The authors believe the True/False question formulations are rarely effective.
-*   Response type that use “Short Answer” must provide answer examples.
-*   Response type that use “Short Answer” must provide answer format information.
+*    Response type that use “Multiple Choice” should have more than two possible answers.
+    *    The authors believe the True/False question formulations are rarely effective.
+*    Response type that use “Short Answer” must provide answer examples.
+*    Response type that use “Short Answer” must provide answer format information.
 
 ## References and Footnotes
 
-Style Guide SimSpace CDEV - The "Specification" proposal text comes mostly from the original SimSpace Style Guide authored by Alissa Torres.
+Style Guide SimSpace CDEV -  The "Specification" proposal text comes mostly from the original SimSpace Style Guide authored by Alissa Torres.

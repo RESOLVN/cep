@@ -48,6 +48,7 @@
 - [CEP 2033: Module Task Chain Requirements](ceps/2033/README.md)
 - [CEP 2034: Question Hint Requirements](ceps/2034/README.md)
 - [CEP 2035: Performance Reporting Requirements](ceps/2035/README.md)
+- [CEP 2036: Knowledge Check Requirements](ceps/2036/README.md)
 
 
 # Implemented CEPs (completed, current best practices)

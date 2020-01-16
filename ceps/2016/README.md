@@ -16,7 +16,7 @@ The “Module Table” is the best practice for certified content modules on vid
 
 ### Requirements
 
-* Determine file size?
+*  Determine file size?
 
 ## References and Footnotes
 

@@ -18,8 +18,8 @@ This AIM of this CEP is to standardize the high-level structure around included 
 
 ### Requirements
 
-* Paragraph(s) sections in content module slides must not exceed 100 words.
-* Until scaling features allow content to change based on screen size a high level of engagement lower value must become standard. 
+*  Paragraph(s) sections in content module slides must not exceed 100 words.
+*  Until scaling features allow content to change based on screen size a high level of engagement lower value must become standard. 
 
 ## References and Footnotes
 

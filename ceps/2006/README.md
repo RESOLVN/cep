@@ -18,9 +18,9 @@ A “Module Toolkit” is a required section the first slide in any content modu
 
 ### Requirements
 
-* Required as a bullet point list in First slide.
-* Number of requirements is determined by the content author.
-* Give the user a basic understanding of the tools used through the module.
+*  Required as a bullet point list in First slide.
+*  Number of requirements is determined by the content author.
+*  Give the user a basic understanding of the tools used through the module.
 
 ## References and Footnotes
 

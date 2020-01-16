@@ -15,21 +15,20 @@ This AIM of this CEP is to standardize the high-level structure of learning outc
 A “Learning Outcome” is a statement in the title slide of a content module of the 3 learning outcomes a student should expect to do in practice upon completion of the module. Learning Outcomes shall exist in parallel to Learning Objectives and may be best represented in table form. 
 
 **Learning Objectives**
-* Identify what the participant is supposed to know;
-* Often written from the perspective of the author, educator, or event manager. 
-* Descriptive titles that bundle related skills (e.g. “chapter” level)?
+*  Identify what the participant is supposed to know;
+*  Often written from the perspective of the author, educator, or event manager. 
+*  Descriptive titles that bundle related skills (e.g. “chapter” level)?
 
 **Learning Outcomes:**
-* Identify what the participant is supposed to do;
-* Serves as a basis of comparison for assessment and evaluation.
+*  Identify what the participant is supposed to do;
+*  Serves as a basis of comparison for assessment and evaluation.
 
 ### Requirements
 
-* 3 Learning Outcomes are required.
-* Learning Outcomes  must be in a heading 3 font and be titled "Learning Outcomes:"
-* The 3 Learning Outcomes should be in bullet format.
-* No punctuation should be used in the 3 points.
-
+*  3 Learning Outcomes are required.
+*  Learning Outcomes  must be in a heading 3 font and be titled "Learning Outcomes:"
+*  The 3 Learning Outcomes should be in bullet format.
+*  No punctuation should be used in the 3 points.
 
 ## References and Footnotes
 

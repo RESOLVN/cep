@@ -18,9 +18,9 @@ The “Module length” is the best practices for length restrictions in a conte
 
 ### Requirements
 
-* Content Modules should be no longer than 50 total slides.
-* Content Module slides should contain less than 1500 words.
-* Content modules should not exceed an estimated duration with respect to the target proficiency level of greater than 1 hour.
+*  Content Modules should be no longer than 50 total slides.
+*  Content Module slides should contain less than 1500 words.
+*  Content modules should not exceed an estimated duration with respect to the target proficiency level of greater than 1 hour.
 
 
 

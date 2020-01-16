@@ -13,11 +13,11 @@ This AIM of this CEP is to standardize the high-level structure around performan
 
 ### Requirements
 
-* Performance criteria shall be applied equally to individual and team-based assessments. 
-* Aggregated performance thresholds include:
-    * ≥ 60% is “Competency”; a synonym for “Readiness.’
-    * ≥ 75% is “Proficiency”.
-    * ≥ 90% is “Mastery”.
+*  Performance criteria shall be applied equally to individual and team-based assessments. 
+*  Aggregated performance thresholds include:
+    *  ≥ 60% is “Competency”; a synonym for “Readiness.’
+    *  ≥ 75% is “Proficiency”.
+    *  ≥ 90% is “Mastery”.
 
 
 ## References and Footnotes

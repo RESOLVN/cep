@@ -20,8 +20,8 @@ Clickpath: Content > Content Modules > “+New Content Module” > [Name]
 
 ### Requirements
 
-* If a Module Title has any point value it must declare that information in the content module slide title followed by the sequence number “Knowledge Check: #”.  
-* If a Module Title has any hands on range interaction it must declare that information in the content module slide title “Hands-On”.  
+*  If a Module Title has any point value it must declare that information in the content module slide title followed by the sequence number “Knowledge Check: #”.  
+*  If a Module Title has any hands on range interaction it must declare that information in the content module slide title “Hands-On”.  
 
 
 ## References and Footnotes

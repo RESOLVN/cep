@@ -15,8 +15,8 @@ This CEP documents content module best practices for those that involve hands on
 
 ### Requirements
 
-* Any content slide that involves lab work must have “Hands On” displayed in the title.
-    * This could later be replaced by a card color/other option.
+*  Any content slide that involves lab work must have “Hands On” displayed in the title.
+    *  This could later be replaced by a card color/other option.
 
 
 ## References and Footnotes

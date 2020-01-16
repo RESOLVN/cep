@@ -16,11 +16,11 @@ A “Question Hint” is a generic term and a synonym for “learning aid”. Th
 
 ### Requirements
 
-* Questions must have at least one hint.
-* Content Modules should remain consistent with point reduction inside that module.
-* Actual hint deduction value can be determined by the content author within the criteria defined in the Learning Aid Type table that defines the four types of Learning Aids. 
-* User Assistance versus Learning Aids: Hint point deduction value of 0 is allowed only if related to the use of the platform and not the content of the assessment.
-* The number of hints allowed per question should remain consistent based on the question difficulty.
+*  Questions must have at least one hint.
+*  Content Modules should remain consistent with point reduction inside that module.
+*  Actual hint deduction value can be determined by the content author within the criteria defined in the Learning Aid Type table that defines the four types of Learning Aids. 
+*  User Assistance versus Learning Aids: Hint point deduction value of 0 is allowed only if related to the use of the platform and not the content of the assessment.
+*  The number of hints allowed per question should remain consistent based on the question difficulty.
 
 
 

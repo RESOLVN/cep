@@ -26,7 +26,7 @@ A “Module Image” is any image used within a content module slide.
 *  Current restriction based on current portal restrictions backwards compatibility.
 *  All images included in content slides must have a caption;
 *  The caption must be in bold font;
-*  The caption must be centered below the image with no spaces between the image and the caption;
+*  If a caption is used the caption must be centered below the image with no spaces between the image and the caption;
 *  Any content that follows an image must have one blank line of space after the caption.
 
 ## References and Footnotes

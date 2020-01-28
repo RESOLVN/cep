@@ -22,9 +22,9 @@ A “Question Hint” is a generic term and a synonym for “learning aid”. Th
 *  User Assistance versus Learning Aids: Hint point deduction value of 0 is allowed only if related to the use of the platform and not the content of the assessment.
 *  The number of hints allowed per question should remain consistent based on the question difficulty.
 * If multiple hints are used, the following progression should be adhered to:
-    Level 1: General hint (what to research)
-    Level 2: A stronger hint that provides more refined research (specific document, website, book/chapter, video, etc.)
-    Level 3: The answer is encoded or obfuscated in some manner (XoR, Mod2, steganography, etc.)
+    * Level 1: General hint (what to research)
+    * Level 2: A stronger hint that provides more refined research (specific document, website, book/chapter, video, etc.)
+    * Level 3: The answer is encoded or obfuscated in some manner (XoR, Mod2, steganography, etc.)
 
 
 ## References and Footnotes

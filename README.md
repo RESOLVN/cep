@@ -1,13 +1,14 @@
-# Index by Category
+# SimSpace Content Enhancement Proposal
 
+Welcome to CEP the goal of this project is to make standards and guidelines that will certify content material in the SimSpace portal platform. 
 
-# Meta-CEPs (CEPs about CEPs or Processes)
+## Index by Category
+
+### Meta-CEPs (CEPs about CEPs or Processes)
 
 -  [CEP 1: Purpose and Guidelines](ceps/1/README.md)
 
-# Other Informational CEPs
-
-# Accepted CEPs (approved; not implemented yet)
+### Accepted CEPs (approved; not implemented yet)
 
 -  [CEP 2001: Question Formatting and Style Requirements](ceps/2001/README.md)
 -  [CEP 2002: Question Type Requirements](ceps/2002/README.md)
@@ -16,7 +17,7 @@
 -  [CEP 2006: Module Toolkit Requirement](ceps/2006/README.md)
 -  [CEP 2007: Module Image Requirement](ceps/2007/README.md)
 
-# Suggested CEPs (under consideration and open)
+### Suggested CEPs (under consideration and open)
 
 -  [CEP 2000: Learning Objectives](ceps/2000/README.md)
 -  [CEP 2003: Question Point Requirements](ceps/2003/README.md)
@@ -50,8 +51,8 @@
 -  [CEP 2035: Performance Reporting Requirements](ceps/2035/README.md)
 -  [CEP 2036: Knowledge Check Requirements](ceps/2036/README.md)
 
+### Implemented CEPs (completed, current best practices)
 
-# Implemented CEPs (completed, current best practices)
+### Historical Meta-CEPs(Abandoned, Withdrawn, or Rejected CEPs)
 
-
-# Historical Meta-CEPs(Abandoned, Withdrawn, or Rejected CEPs)
+### Other Informational CEPs

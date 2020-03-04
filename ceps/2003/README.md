@@ -13,20 +13,20 @@ The aim of this CEP is to standardize question points use in assessment modules.
 
 ### What is a “Question Point”
 
-A question point is the reward value assigned based on the complexity of the task. The requirements below are loosely based on blooms taxonomy?
+A question point is the reward value assigned based on the complexity of the task. The requirements below are loosely based on blooms taxonomy? The actual point value is determined by the content author and is intended to allow the use of as many hints that author requires.
 
 ### Requirements
 
 *  100 points - recall / knowledge check
-    *  An easy question tests the analyst's ability to recall a knowledge item.
+    *  This level question tests the analyst's ability to recall a knowledge item.
 *  200 points - understand / describe
-    *  The  Medium level question requires application of knowledge in the use of a tool or data set to derive an answer.
+    *  This level question requires application of knowledge in the use of a tool or data set to derive an answer.
 *  300 points - apply / discover
-    *  The  Hard level question requires application of multiple concepts across one or more data sets and apply academic knowledge or analytical skills to determine the answer.
+    *  This level question requires application of multiple concepts across one or more data sets and apply academic knowledge or analytical skills to determine the answer.
 *  500 points - analyze / evaluate
-    *  The  Advanced level question requires application of multiple concepts across multiple  data sets and use critical thinking to determine the answer.
+    *  This level question requires application of multiple concepts across multiple data sets and use critical thinking to determine the answer.
 *  1000 points - multi-step / create
-    *  The actual point value is determined by the content author and is intended to allow the use of as many hints that author requires.
+    *  This level question requires cumulative mastery of the material and multiple steps.
 
 ## References and Footnotes
 

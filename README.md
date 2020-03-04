@@ -12,6 +12,7 @@ Welcome to CEP the goal of this project is to make standards and guidelines that
 
 -  [CEP 2001: Question Formatting and Style Requirements](ceps/2001/README.md)
 -  [CEP 2002: Question Type Requirements](ceps/2002/README.md)
+-  [CEP 2003: Question Point Requirements](ceps/2003/README.md)
 -  [CEP 2004: Question Retry Requirements](ceps/2004/README.md)
 -  [CEP 2005: Module Introduction Card Title Requirement](ceps/2005/README.md)
 -  [CEP 2006: Module Toolkit Requirement](ceps/2006/README.md)
@@ -20,7 +21,6 @@ Welcome to CEP the goal of this project is to make standards and guidelines that
 ### Suggested CEPs (under consideration and open)
 
 -  [CEP 2000: Learning Objectives](ceps/2000/README.md)
--  [CEP 2003: Question Point Requirements](ceps/2003/README.md)
 -  [CEP 2008: Module Title Requirements](ceps/2008/README.md)
 -  [CEP 2009: Module Paragraph Requirements](ceps/2009/README.md)
 -  [CEP 2010: Module Code Format and Style Requirements](ceps/2010/README.md)

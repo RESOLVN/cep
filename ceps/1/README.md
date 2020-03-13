@@ -4,7 +4,7 @@
 
 **Note: This will be implemented in CEP release version 1.0.0.** 
 
-CEP stands for Content Enhancement Proposal for the SimSpace style guidelines on content modules. A CEP is a design document providing information to the Content Development Community, or describing a new feature for the Portal, or it's processes and environments. The CEP includes a concise technical specification of the format and a logical rationale for its implementation.
+CEP stands for Content Enhancement Proposal for the SimSpace style guidelines on content modules. A CEP is a design document providing information to the Content Development Community, or describing a new feature for the Portal, or its processes and environments. The CEP includes a concise technical specification of the format and a logical rationale for its implementation.
 
 SimSpace intends CEPs to be the primary mechanisms for proposing major new Content Module standards, for collecting community feedback and ideas on issues, and for documenting the design decisions that have gone into the Portal. The CEP delegate is for building consensus based on community feedback and ideas while also documenting conflicting ideas. CEP proposals that address functional gaps in SimSpace Portal or Cyber Range should be phrased as problem statements rather than feature requests. 
 
@@ -33,7 +33,8 @@ Commonly there are a number of references in these CEPs to the "CEP Advisory Cou
 
 **Note: This will be implemented in CEP release version 0.0.3.** 
 
-The CEP editors are responsible for managing the administrative aspects of the CEP workflow. They assign CEP numbers and update current status of them. See CEP Editors Responsibilities and Functions for more details.
+The CEP editors are responsible for managing the administrative aspects of the CEP workflow. They assign CEP numbers and
+ update current status of them. See CEP Editors Responsibilities and Functions for more details.
 
 CEP editorship is by invitation from a current editor and they can be contacted at ceps@simspace.com, however this would normally only be used to contact the editors semi-privately. All standard CEP workflow can be conducted via the GitHub CEP repository issues and pull requests.
 

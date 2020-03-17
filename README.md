@@ -1,6 +1,6 @@
 # SimSpace Content Enhancement Proposal
 
-Welcome to CEP the goal of this project is to make standards and guidelines that will certify content material in the SimSpace portal platform. 
+Welcome to CEP. The goal of this project is to make standards and guidelines that will certify content material in the SimSpace portal platform. 
 
 ## Index by Category
 

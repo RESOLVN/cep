@@ -7,8 +7,8 @@
 CEP stands for Cyber Education Proposal. CEPs are standards maintained by SimSpace and intended to provide guidelines for the design and style for content modules, learning delivery platforms and cyber ranges used in cyber education. Each CEP describes a component that can be included in these functions. The CEP specifies why and how a component is to be used.
 
 SimSpace intends CEPs to be the primary mechanism for:
-- proposing or modifying standards
-- collecting community feedback and ideas on issues
+- proposing or modifying standards.
+- collecting community feedback and ideas on issues.
 - documenting design decisions.
 
 CEPs are maintained as text files (with .md extension) in a public version control repository for optimal management.

@@ -4,186 +4,174 @@
 
 **Note: This will be implemented in CEP release version 1.0.0.** 
 
-CEP stands for Content Enhancement Proposal for the SimSpace style guidelines on content modules. A CEP is a design
-document providing information to the Content Development Community, or describing a new feature for the Portal, or its
-processes and environments. The CEP includes a concise technical specification of the format and a logical rationale for
-its implementation.
+CEP stands for Cyber Education Proposal. CEPs are standards maintained by SimSpace and intended to provide guidelines for the design and style for content modules, learning delivery platforms and cyber ranges used in cyber education. Each CEP describes a component that can be included in these functions. The CEP specifies why and how a component is to be used.
 
-SimSpace intends CEPs to be the primary mechanisms for proposing major new Content Module standards, for collecting
-community feedback and ideas on issues, and for documenting the design decisions that have gone into the Portal. The CEP
-delegate is for building consensus based on community feedback and ideas while also documenting conflicting ideas. CEP
-proposals that address functional gaps in SimSpace Portal or Cyber Range should be phrased as problem statements rather
-than feature requests.
+SimSpace intends CEPs to be the primary mechanism for:
+- proposing or modifying standards
+- collecting community feedback and ideas on issues
+- documenting design decisions.
 
-CEPs are maintained as text files(with .md extension) in a public version control repository for optimal management.
+CEPs are maintained as text files (with .md extension) in a public version control repository for optimal management.
 
-## CEP Audience
-
-The primary audience for CEPs are the content developers themselves in the SimSpace Portal as a strict guideline to
-content modules for optimal experience of users. Content Developers on SimSpace Commercial Platform only are required
-to follow these guidelines in order to publish content of any type. These guidelines are critical for any content
-development team or individual to document expected Portal conventions and manage complex design problems that require
-collaboration across multiple modules.
-CEP Types
-
-**Note: This will be implemented in CEP release version 0.0.2.**
+Submissions and modifications for CEPs are done through a formal process that involves a delegate, an editor, and an advisory council. These roles and the process are explained in this document.
  
-**Currently there are three types of CEP:**
+### CEP Types
+ 
+There are three types of CEP:
 
--  A Features Track CEP describes a new feature or implementation for the SimSpace Portal.
--  An Informational CEP describes a non required design or process issue which currently lacks support to become a required standard. Content Developers are free to implement these ignore or use them.
--  A Process CEP describes a process or style surrounding the Portal or a Content Module, or proposes a change to a current CEP Style or Process implementation(not a change to the Portal). Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools, environment, or style used in Content Modules.
+-  **Features**: Describes a new feature or implementation for the learning delivery platform, or portal.
+-  **Informational**: Describes a non-required design or process issue which currently lacks support to become a
+ required standard. Content Developers are free to ignore or use them.
+-  **Process**: Describes a process or style surrounding a content module or the delivery platform, or proposes a change to a current CEP style or process implementation. Examples include procedures, guidelines,
+  changes to the decision-making process, and changes to the tools, environment or style used in content modules.
 
-## CEP CEP Advisory Council
+## CEP Roles
 
-**Note: This will be implemented when CEP release version 0.0.3.** 
+### CEP Audience
 
-Commonly there are a number of references in these CEPs to the "CEP Advisory Council". This refers to the current
-members of elected board members that have the final authority if a CEP will be accepted, rejected, removed or revised.
+The primary audience for CEPs are the content developers for the SimSpace learning delivery platform. Content developers for the SimSpace commercial platform are required
+to follow these guidelines in order to publish content of any type. These guidelines are critical for any content
+development team or individual to document expected portal conventions and manage complex design problems that require
+collaboration across multiple modules.
 
-## CEP Editors
+### CEP Advisory Council
 
-**Note: This will be implemented in CEP release version 0.0.3.** 
+The CEP Advisory Council is comprised of elected board members, who have the final authority whether a CEP will be accepted, rejected, removed or revised.
 
-The CEP editors are responsible for managing the administrative aspects of the CEP workflow. They assign CEP numbers and
- update current status of them. See CEP Editors Responsibilities and Functions for more details.
+### CEP Editors
 
-CEP editorship is by invitation from a current editor and they can be contacted at ceps@simspace.com, however this would
+CEP editors manage the administrative aspects of the CEP workflow (outlined in this document). They assign numbers to CEPs and
+ update the status of CEPs.
+
+CEP editorship is by invitation from an existing editor. Editors can be contacted at ceps@simspace.com. Email communication would
  normally only be used to contact the editors semi-privately. All standard CEP workflow can be conducted via the GitHub
  CEP repository issues and pull requests.
 
-## Starting with an idea for a Content Module
+#### CEP Editor Responsibilities
 
-**Note: This will be implemented in CEP release version 0.0.3.** 
+A CEP editor must have access and edit permissions to the Github repository. Normal correspondence between editors
+happens in a semi-private shared Slack chat room “X Name”. Github issues and pull requests will be notified in
+chat and be discussed when time permits for the CEP editors.
 
-The CEP process starts with a suggested new idea for a Content Module. It is required that a single CEP contain one key
-proposal. The more direct and to the point a CEP is the more success it is likely to have. The CEP Editors reserve the
-right to reject CEP proposals if they appear too large in scope or contain more than a single idea.
+### Delegate
+Delegates propose, support and shepherd a CEP through the workflow process. There are two types of delegates:
+- The **core delegate** is responsible for creating, updating and collecting community feedback on ideas for the CEP.
+- The **support delegate** works with the core delegate to approve the CEP for
+submission.  
 
-Starting in the official CEP release version 1.x.x each CEP proposal must have a support delegate, and a core delegate.
-The core delegate is responsible for creating, updating and collecting community feedback on ideas for the CEP. The
-first goal is to determine if the idea is possible, and if it's optimal for content delivery. Posting in the shared
-community slack room is the required place to start in order to properly vet the idea.
+#### CEP Delegate Selection Process
+
+The original author of the CEP is the core delegate. The core delegate can assign support delegate status at will.
+A new core delegate can be assigned by the CEP Advisory Council in case the current delegate no longer has time or is
+no longer available to manage the CEP.
+
+If you are interested in the core delegate role for a CEP, you can submit a pull request with the core delegate
+modification which can be reviewed by the CEP editors to decide if it passes the qualifications to be presented to the
+CEP Advisory Council.
+
+## CEP Workflow:
+**Note: This Workflow will be implemented when CEP is ratified with the release of version 1.0.0.** 
+
+The workflow outlined here is intended for building consensus based on community feedback and ideas while also documenting conflicting ideas. CEP
+proposals that address functional gaps in SimSpace Portal or Cyber Range should be phrased as problem statements rather
+than feature requests.
+
+### Idea for a Content Module
+
+The CEP process starts with a suggestion for a new standard. It is required that a single CEP contain only a single key
+proposal. The more direct and to the point a CEP is, the more success it is likely to have for being approved. The CEP editors may reject CEP proposals if they seem too large in scope or contain more than a single idea.
+
+Starting in the official CEP release version 1.0.0, each CEP proposal must have a support delegate and a core delegate. The
+first goal is to determine if the idea is possible, and if it's optimal for cyber education. Posting in the shared
+community Slack room is the required place to start in order to properly vet the idea.
 
 Vetting an idea in a semi-public environment is intended to save the core delegate time from writing a CEP that is
- guaranteed to be rejected based on prior discussions . It's important to get feedback from the community on ideas first
+ guaranteed to be rejected based on prior discussions. It's important to get feedback from the community first
   in order to build the best CEPs.
 
-## Submitting a CEP
+### Submitting a CEP
 
 **Note: This will be implemented when CEP is ratified with the release of version 1.0.0.** 
 
-In order for a CEP to be considered it needs another CEP editor to agree to be a co-delegate the CEP. The original
-creator and author of the CEP is the core delegate. A co-delegate works with the core delegate to approve the CEP for
-submission. A co-delegate can also be a co-author but isn't required.
+In order for a CEP to be considered, it needs a CEP editor to agree to be a support delegate for it. The core delegate is the original
+creator and author of the CEP. A support delegate can also be a co-author, but it isn't required.
 
-Once the co-delegate and core delegate agree the CEP is ready to be reviewed by the CEP Advisory Council.
-The following process must be used to submit the CEP.
+Once the core delegate and support delegate agree, the CEP is ready to be reviewed by the CEP Advisory Council.
+The process to submit the CEP is outlined in the next sections.
 
-**Standard CEP Submission Workflow:**
-
-**Note: This Workflow will be implemented when CEP is ratified with the release of version 1.0.0.** 
-
-### Stage 1: Submission
+#### Stage 1: Submission
 
 -  The CEP delegate forks the main CEP repository and creates a file named cep-9999.md that contains the new CEP. All drafts should use "9999"
--  In the Type Header field enter "Features Track", "Informational", or "Process" CEP
--  For the "Status" field use "Draft"
+-  In the Commit Message field, enter:
+   - ` Type Header: [Features/Informational/Process]`
+   -  `Status: Draft`
 -  Push this commit to the Github fork and create a pull request
 
-### Stage 2: Approval
+#### Stage 2: Validation
 
--  The CEP editors review the PR for structure, formatting or other possible errors
--  Fully Complete, the proposal makes sense and is logically reasonable
--  Title accurately describes the content and idea
--  The CEP language(spelling, grammar, and sentence structure) and style(CEP approved) should be correct
--  The CEP will be checked by CI/CD and must pass all checks to be reviewed
--  Once approved, a new CEP number will be assigned
+The CEP editors review the pull request for structure, formatting or errors.
 
-### Stage 3: Review
+-  The Title should accurately describe the content and idea.
+-  The CEP style and language (phrasing, sentence structure), as well as the spelling, grammar and punctuation should be correct.
+-  The CEP will be checked by Continuous Integration/Continuous Deployment (CI/CD) and must pass all checks to move to the Review stage.
+-  When the CEP is validated, a new CEP number is assigned by the support delegate, who also creates a folder in the appropriate file structure.
+   - A unique CEP number (Feature 0-999, Informational 1000-1999, Process 2000+).
+   - Ideally the next available number under the assigned CEP type.
 
--  Once the approval process is complete by the CEP editors the CEP editors will squash commit the pull request into master
--  The CEP editors will not unreasonably deny publication of a CEP
--  Reason for denying CEP status include duplication of effort, technically unsound, not providing proper documentation or backwards compatibility.
--  The final authority for a CEP approval is the CEP Advisory Council. A meeting takes place (insert time frame) that calls a vote on CEPs
--  Expedited votes can be called to vote on a single CEP in slack chat
--  It must be a clear and complete description of the proposed enhancement. The CEP must represent a net improvement. The proposed CEP, if applicable, must be solid and must not complicate the content modules development process.
+The support delegate (a CEP editor) should not unreasonably deny publication of a CEP. Their primary efforts are to ensure it is written appropriately and passes CI/CD. Reasons for denying CEP status can include duplication of effort, being technically unsound, not providing proper documentation or backwards compatibility.
 
-### Stage 4: Verdict
+#### Stage 3: Review
 
--  Deferred: This is the status of a CEP that has been denied and not in revision. The CEP delegate can re-assign it to a draft status if applicable.
--  Rejected: The final rejection of a specific CEP. In the rejected verdict case the CEP can no longer be considered for approval again.
--  Accepted: The CEP is accepted and will be included in the next release of CEP standards.
+-  When the validation process is complete, the CEP editors will squash commit the pull request into master.
+-  The final authority for a CEP approval is the CEP Advisory Council. A meeting takes place (insert time frame) in which the CEPs are voted on.
+-  Voting on a single CEP can take place in a Slack chat.
+-  A proposed CEP must be a clear and complete description of the proposed enhancement, as well as being technically and logically sound. The CEP must represent a net improvement. CEPs should not complicate the development process; they should add clarity to it.
+
+#### Stage 4: Verdict
+
+-  **Deferred**: This is the status of a CEP that has been denied and not in revision. The CEP delegate can re-assign it to a draft status if applicable.
+-  **Rejected**: The final rejection of a specific CEP. The CEP can not be considered for approval again.
+-  **Accepted**: The CEP is accepted and will be included in the next release of CEP standards.
 
 ## CEP Maintenance
 
 **Note: This will be implemented when CEP is ratified with the release of version 1.0.0.** 
 
-As this documentation matures the Features track updating should become very rare and no longer be modified after they
-have reached the Final state. Once a CEP has been finalized, it will become the formal documentation of the expected
-format on a content module/feature.
+As the standard matures, the Features track updating should become rare and CEPs should no longer be modified after they
+have been finalized. Once a CEP has been finalized, it will become the formal documentation of the expected
+style and design.
 
-Informational and Process CEPs will continue to evolve over time as format and features change. The exact process
+Informational and Process CEPs will continue to evolve as format and features change. The exact process
 followed in these proposals will depend on the context and nature of the CEP being updated.
 
-## What is in a successful CEP
+### Updating CEPs and Reporting Bugs
 
-**Each CEP should contain the following features:**
+For a CEP that has been implemented, a
+Github issue is the proper process. Use the issue reporting template in the repository.
 
--  Abstract  (Required Version >= 0.0.2)
--  Rationale  (Required Version >= 0.0.2)
--  Specification  (Required Version >= 0.0.2)
--  Define the CEP
--  Requirements section
--  References and Footnotes (Required Version >= 0.0.2)
--  License/Copy (Required Version >= 1.0.0)
--  Acknowledgements  (Required Version >= 1.0.0)
+## What is in a Successful CEP
 
-## Auxiliary Files
+Each CEP should contain the following items:
+
+-  **Abstract**: Brief summary of the CEP. Provides a concise overview in one or a few sentences. It says more than the title, but is not a repeat of the entire specification.
+-  **Rationale**: Explains why the CEP is needed or is useful, or a problem that it solves.
+-  **Specification**: Describes the CEP in detail. Includes explicit requirements and other information organized under sub-headings as appropriate. It may include examples and sub-headings such as:
+   -  Definition
+   -  Requirements
+-  **References and Footnotes**: Any documents that were used in preparing the CEP, or which provide additional information. May indicate sources from which wording or descriptions were derived.
+-  **License/Copy**: Apache 2.0 for SimSpace CEPs.
+-  **Acknowledgements**: Gives credit to individuals or an entity that was helpful or inspirational in preparing the CEP.
+
+### Auxiliary Files
 
 **Required Version >= 1.0.0**
 
-CEPs normally would include media files such as diagrams, pictures, and supporting documents. Such files should be
-named “cep-xxxx-y.extension” where "XXXX" is the CEP number, "Y" is a serial number (starting at 1), and "extension"
-is replaced by the actual file extension (Example: ".jpg").
+CEPs may include files such as diagrams, pictures, and supporting documents. Such files should use the naming convention:
 
-These files should be included in the sub CEP folder. This is a suggested format and isn’t required for content module
+    cep-xxxx-y.extension
+
+ where `xxxx` is the CEP number, `y` is a serial number (starting at 1), and `extension`
+is replaced by the actual file extension (Example: `.jpg`).
+
+These files should be included in the CEP sub-folder. This is a suggested format and is not required for content module
 certification.
-
-## Updating CEPs and Reporting Bugs
-
-For the early draft stages of a CEP the preferences will vary based on the owner delegate. If the CEP is finalized a
-Github issue is the proper process. Please use the included issue reporting template in the repository.
-
-## CEP Delegate Selection Process
-
-The original author of the CEP starts as the core delegate. The core delegate can assign co-delegate status at will.
-A new core delegate can be assigned by the CEP Advisory Council in case the current delegate no longer has time or is
-no longer available to manage the CEP.
-
-If you are interested in the core delegate role of a CEP, you can submit a pull request with the core delegate
-modification which can be reviewed by the CEP editors to decide if it passes the qualifications to be presented to the
-CEP Advisory Council.
-
-## CEP Editor Responsibilities
-
-A CEP editor must have access and edit permissions to the Github repository. Normal correspondence between editors will
-happen in a semi-privately shared slack chat room “X Name”. There Github issues and pull requests will be notified in
-chat and be discussed when time permits for the CEP editors.
-
-### New CEPs Process:
-
--  Ensure the CEP has a co-delegate and core delegate.
-- Title represents the content and contains the core requirements.
-- Read the CEP for completeness(spelling, grammar, sentence structure). It should be sound logical, and to the point. 
-- The proposal should be technical sense even if it is accepted/rejected.
-- Ensure unit tests pass on the CEP.
-
-Once a CEP passes the basic checks the editor will start the assignment process next.
-
-### CEPs Assignment Process:
-
-- Assign a unique CEP number(meta cep 0-999, informational 1000-1999, process 2000+)
-- Ideally the next available number under the assigned CEP type.
-- Send informational email to core CEP delegate with next steps instructions. 
-- Assign CEP to next 

@@ -14,11 +14,11 @@ This AIM of this CEP is to standardize the high-level structure around included 
 
 ### What is a “Module Paragraph”
 
- A “Module Paragraph” is any paragraph within a slide.
+ A “Module Paragraph” is any paragraph within a task.
 
 ### Requirements
 
-*  Paragraph(s) sections in content module slides must not exceed 100 words.
+*  Paragraph(s) sections in content module tasks must not exceed 100 words.
 *  Until scaling features allow content to change based on screen size a high level of engagement lower value must become standard. 
 
 ## References and Footnotes

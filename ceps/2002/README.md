@@ -13,7 +13,7 @@ The aim of this CEP is to standardize question type rules in assessment modules.
 
 ### What is a “Question Type”
 
-A question type is what Response Type is selected in the **Action **card in the content module slide.
+A question type is what Response Type is selected in the **Action **card in the content module task.
 
 ### Response Type Options:
 

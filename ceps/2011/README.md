@@ -7,7 +7,7 @@ This CEP documents the semantics, syntax and conventions associated with command
 
 ## Rationale
 
-This AIM of this CEP is to standardize the high-level structure around  command line included as text in training and assessment content module slides. If you violate these conventions it will not allow for easy programmatic identification of the command example(s) and degrade the value of the module. Following this CEP would be critical for a unified user experience.
+This AIM of this CEP is to standardize the high-level structure around  command line included as text in training and assessment content module tasks. If you violate these conventions it will not allow for easy programmatic identification of the command example(s) and degrade the value of the module. Following this CEP would be critical for a unified user experience.
 
 ## Specification
 
@@ -20,7 +20,7 @@ The “Module Command Formatting” is the best practices for having command lin
 
 *  All command line text must be included in code format sections.
 *  Command Line Example Screenshots may be used to display instruction or examples as long as the image smoothly scales across screen sizes while maintaining quality.
-*  Following any command section in a slide a blank line must separate any following content sections. 
+*  Following any command section in a task a blank line must separate any following content sections.
 
 ## References and Footnotes
 

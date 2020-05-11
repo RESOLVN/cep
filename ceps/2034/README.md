@@ -12,7 +12,7 @@ This AIM of this CEP is to standardize the high-level structure around question 
 
 ### What is a “Question Hint”
 
-A “Question Hint” is a generic term and a synonym for “learning aid”. The Hint section contained in the details card in the content module slide that a user can use for assistance on a question at the possible cost of point(s) or percentage value of points.
+A “Question Hint” is a generic term and a synonym for “learning aid”. The Hint section contained in the details card in the content module task that a user can use for assistance on a question at the possible cost of point(s) or percentage value of points.
 
 ### Requirements
 

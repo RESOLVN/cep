@@ -1,4 +1,4 @@
-# CEP 2032: Content Learning Outcome Requirements
+# CEP 2032: Learning Outcome Requirements for Instructional Modules
  
 ## Abstract
 
@@ -6,36 +6,46 @@ This CEP documents the requirements for and use of Learning Outcomes for an inst
 
 ## Rationale
 
-The aim of this CEP is to define "learning objective" and its structure, and to standardize the presentation format and style for learning outcomes required for instructional content modules.  
+The aim of this CEP is to define "learning outcomes" and how they are to be structured for instructional modules.  
 
-Learning outcomes express what the student should or will be able to do upon completion of the module. This is expressed using measurable or observable verbs or terms. (The use of terms such as "will understand" or "will know" do not meet this criteria.) The importance of properly written Outcomes is essential to the development and integrity of a module. Therefore this section goes into more detail than may be found in other CEPs. 
+Learning outcomes express what the student should or will be able to do upon completion of the module. This is expressed using measurable or observable verbs or terms. (The use of terms such as "will understand" or "will know" do not meet this criteria.) The importance of properly written outcomes is essential to the development and integrity of a module. Therefore this section goes into more detail than may be found in other CEPs. 
 
-Learning outcomes and learning objectives are sometimes used interchangeably, but as implemented here, they are distinctive. With outcomes, the focus is on doing. Objectives serve as a list of what the module intends to teach. 
+####Terminology
+Within the training field, "Learning Outcomes" and "Learning Objectives" are frequently used interchangeably. As implemented for SimSpace, "Outcomes" is the chosen term, focusing on what the user will be be able to **do**.
 
-This CEP uses the Bloom's Taxonomy framework as a guide. Bloom's commonly uses the term "learning objective" for what SimSpace modules refer to as _Learning Outcomes_, hence the need to distinguish the two terms. For this CEP, the use of Bloom's framework applies to SimSpace's learning outcomes.
+The use of the term "learning outcomes" has been informed, in part, by the following sources:
 
-In addition to Bloom's, this CEP and its use of the term "learning outcomes" has also been informed by sources such as the National Initiative for Cybersecurity
-Education (NICE) Cybersecurity Workforce Framework; the International Training and Education Center for Health (go2itech.org) Training Toolkit; and the US Army Learning Concept for Training and Education 2020-2040.
+* The National Initiative for Cybersecurity
+Education (NICE) Cybersecurity Workforce Framework.
+* The US Army Learning Concept for Training and Education 2020-2040.
+* The International Training and Education Center for Health (go2itech.org) Training Toolkit.
 
-Learning outcomes form the basis of a module's content and organizational structure, and should therefore be written _before_ the instructional content and any assessment questions.
+A widely used (and recommended) resource in training development is called Bloom's Taxonomy. It is a framework that outlines categories of cognitive processes, from lower order to higher order, with associated verbs for each process. Bloom's uses the term "learning objective", which equates to SimSpace _Learning Outcomes_.
 
-The key to writing outcomes is the use of verbs. Bloom's Taxonomy is often used as a resource for "action" verbs, such as identify, explain, use, compare, prepare or design. Bloom's, however, is more than verbs; it is a framework for developing learning based on the cognitive processes that learners encounter. As such, certain verbs are associated with lower order cognitive processes and others with higher order processes. Rather than randomly selecting verbs, it's worthwhile to consider where the knowledge check questions may fall on this continuum and choose your verbs accordingly. Ideally, this continuum also aligns with the sequence of questions within the module, with lower order questions occuring first.
-
-[Cheat sheet of verbs that align with Bloom's Taxonomy.](https://www.apu.edu/live_data/files/333/blooms_taxonomy_action_verbs.pdf)
-
-Outcomes must assess performance-related knowledge, skills and abilities and not merely a student's ability to use a tool. For example, to use a command window to obtain an IP address assesses the ability to use a command window. Alternatively, using the ipconfig command to determine the IP address assesses the ability to use the appropriate command to obtain a specific piece of information.
+####Function of Outcomes
+Outcomes must assess performance-related knowledge, skills and abilities. For example, "use a command window to obtain an IP address" assesses the ability to use a command window. Whereas, "use the ipconfig command to determine the IP address" assesses the ability to use the appropriate command to obtain a specific piece of information. The former may be appropriate if the topic is is the use of a command window, whereas the latter is appropriate if the topic is about IP addresses.
 
 Using stringently written learning outcomes serves multiple purposes:
-- They enable the content producer to validate their content.
-- They allow the student and their sponsor to determine what is to be taught and how effective it was.
-- They serve as the basis for development of knowledge checks.
-- By being displayed at the start of a module, they set expectations and help to instill confidence.
+- Enables the content producer to validate their content.
+- Allows the student and their sponsor to determine what is to be taught and how effective it was.
+- Serves as the basis for development of knowledge checks.
+- Sets expectations (by being displayed at the start of a module).
 
-The bottom line is that they validate the integrity of the module -- that the learner will be able to do what the outcomes say they will be able to do.
+The bottom line is that outcomes validate the integrity of the module -- that the learner will be able to do what the outcomes say they will be able to do, as verified (or not) by knowledge checks.
 
-Outcomes are presented in a bulleted list format and use periods at the end even if each is not a complete sentence. The use of a period is subjective, but it is based on the idea that a period completes a thought or idea. A lead-in sentence to the list is not required because the heading speaks for itself.  
+####Writing Outcomes
+Learning outcomes form the basis of a module's content and organizational structure, and must therefore be written _before_ the instructional content and assessment questions. 
 
-Compliance with this convention facilitates programmatic identification of outcomes within modules. Adhering to this CEP is critical to a unified user experience.
+A key to writing outcomes is the use of verbs. Bloom's Taxonomy is often used as a resource for "action" verbs, such as to identify, explain, use, compare, prepare or design. Bloom's, however, is more than verbs; it is a framework for developing learning based on the cognitive processes that learners encounter. As such, certain verbs are associated with lower order cognitive processes and others with higher order processes. Rather than randomly selecting verbs, it's worthwhile to consider where the knowledge check questions may fall on this continuum and choose your verbs accordingly. This continuum also aligns with the sequence of questions within the module, with lower order questions occuring first.
+
+Due to SimSpace Portal limitations on the types of questions that can be used for knowledge checks (essentially, multiple choice and prescriptive short answer), it is difficult to craft outcomes that assess the higher order cognitive processes (analyze, evaluate, create). While you may be somewhat constrained to mostly measuring the cognitive processes of remember, understand and apply, do include outcomes from more than one cognitive domain. 
+
+Here is a cheat sheet of [Bloom's Taxonomy Action Verbs.](https://www.apu.edu/live_data/files/333/blooms_taxonomy_action_verbs.pdf) Below are additional Bloom's resources.
+
+####Format
+Outcomes are presented in a bulleted list format and use periods at the end of each item, even if it is not a complete sentence. (The use of a period is subjective, but it is based on the idea that a period completes a thought or idea.) A lead-in sentence to the list of outcomes is not required because the heading "Learning Outcomes" speaks for itself.  
+
+Compliance with this convention facilitates programmatic identification of outcomes within modules. Adhering to this CEP is critical to a unified learner experience.
 
 ## Specification
 
@@ -45,25 +55,21 @@ A “Learning Outcome” is one or more statements in the Introduction task of a
 
 ### Requirements
 
-- A module will have a minimum of three (3) learning outcomes.
+- A minimum of one learning outcome.
+    - Ideally, there will be one or more learning outcomes for each major topic in the module.
 - Outcomes must be included in the Introduction task.
-- Outcomes are identified with an H3 title labeled "Learning Outcomes".
+- Outcomes are identified with an H2 title labeled "Learning Outcomes".
 - Outcomes are presented in a bulleted list format.
 - Each outcome ends with a period.
 - Each outcome has a maximum of 120 characters.
 - Each outcome must include a verb that is observable or demonstrable.
 
 ## References and Footnotes
-NOTE: the Utica.edu link below shows the original Bloom's taxonomy and not the revised. The second link is a good visual resource for the revised framework.
-[Bloom’s Taxonomy of Measurable Verbs](https://www.utica.edu/academic/Assessment/new/Blooms%20Taxonomy%20-%20Best.pdf)
 
 A straightforward list of verbs can be found at [Bloom's Taxonomy Action Verbs](https://www.apu.edu/live_data/files/333/blooms_taxonomy_action_verbs.pdf)
 
-A common approach and summary for training learning outcomes is found here at the [South Carolina Center for Teaching Excellence](https://sc.edu/about/offices_and_divisions/cte/teaching_resources/coursedevelopment/learning_outcomes/index.php)
+Good [summary of learning outcomes and a commonly used approach to developing them](https://sc.edu/about/offices_and_divisions/cte/teaching_resources/coursedevelopment/learning_outcomes/index.php)
 
 Also:  
 - Prepared by Iowa State University Center for Excellence in Teaching and Learning: [Revised Bloom's Taxonomy](https://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/)
 - Prepared by Harvard University Derek Bok Center for Teaching and Learning: [Taxonomies of Learning](https://bokcenter.harvard.edu/taxonomies-learning)
-
-NOTE: Discuss use of 3 outcomes, 120-character limit.
-NOTE: Include link to Bloom's or other verb cheat sheet.

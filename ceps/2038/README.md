@@ -1,4 +1,4 @@
-# CEP 9999: Images: Screen Snaps
+# CEP 2038: Images: Screen Snaps
 ## Abstract
 This CEP documents the semantics, syntax and conventions associated with using author-created screen snaps in training and assessment modules. For general image requirements, refer to [CEP 2007: Module Image Requirements](https://github.com/Simspace/cep/blob/master/ceps/2007/README.md).
 

@@ -1,52 +1,47 @@
-# CEP 2000: Learning Objectives
+# CEP 2000: Learning Topics List
 
 ## Abstract
 
-This CEP documents the semantics, syntax and conventions associated with Learning Objectives for instructional content modules. 
+This CEP documents the semantics, syntax and conventions associated with topics for instructional content modules. 
 
 ## Rationale
 
-The aim of this CEP is to define what constitutes a learning objective and to standardize the presentation format and style for learning objectives in instructional content modules. A definition of learning objectives is important in order to distinguish them from learning _outcomes_ because the two terms are sometimes used interchangeably or have various other meanings attached to them.
- 
- This CEP applies specifically to instructional modules, as opposed to assessment modules. An instructional module's primary purpose is to teach a topic, and includes definitions, explanations, best practices and/or examples.
- 
- Objectives are the information that the module intends to cover, or what will be taught. They can serve as a high-level outline for the module, but should  be more than a list of one- or two-word topics. 
+NOTE: This CEP was formerly titled Learning Objectives. Ambiguities and discrepancies existed in the interpretation of the terms "Learning Objectives" and "Learning Outcomes". An attempt has now been made to define and distinguish these terms.
 
-Objectives differ from outcomes in that they do not prescribe what the student should be able to _do_ at the conclusion of the module. Therefore, objectives do not use verbs that are observable or measurable terms, as would be used for outcomes, nor should they use verbs such as "to understand".)
-  
-Objectives are presented in a bulleted list format and use periods at the end even if each item is not a complete sentence. The use of a period is subjective, but it is based on the idea that a period completes a thought or idea. A lead-in sentence is not required for the list because the heading speaks for itself.  
+The two terms are frequently used synonymously within the training industry. Here, a Learning Outcome is defined as something the student should be able to do at the conclusion of a module. A Learning Objective was defined as an information or topic that the module intended to cover. In an effort to add further clarity, the term Learning Objectives was changed to "Topics" in May 2020.
+
+The aim of this CEP is to define what constitutes a "topic" and to standardize the presentation format and style for topics in instructional content modules. This CEP applies specifically to instructional modules, as opposed to assessment modules. An instructional module's primary purpose is to teach a topic, and includes concepts, definitions, explanations, best practices and/or examples.
+ 
+ Topics are the information that the module intends to cover, or what will be taught. It serves as a high-level outline of a module, listing the major topics that will be addressed. Topics can contain sub-topics, but it is not necessary to list them.
+ 
+ Topics should be outlined at the start of the module development process. It is suggested that the author create a structured hierarchy of topics to guide them during the development process, making adjustments as necessary. This hierarchy can serve as a reference during developing to ensure that all ideas have been covered, and in the correct sequence. The hierarchy can then be condensed to the main topics.
+ 
+Topics are presented in a bulleted list format and use periods at the end even if each item is not a complete sentence. The use of a period is subjective, but it is based on the idea that a period completes a thought or idea. A lead-in sentence is not required for the list because the "Topics" heading speaks for itself. Topics should be more than 1-2 word phrases, but need not be complete sentences. Examples include:
+-  Numeric systems used in computing
+-  Using Wireshark to identify network traffic.
+-  Exploring the principles of basic network reconniassance.
+-  Introduction to the nmap tool.
+-  How nmap can be used to ...
+-  How to dissect specific protocol headers.  
+
+The topic list does not need to use parallel construction. That is, all items in a list do not need to be written in the same form -- for example, with all items starting with a verb that uses the 'ing' form.
 
 Compliance with this convention facilitates programmatic identification of objectives within modules. Adhering to this CEP is critical to a unified user experience.
 
 ## Specification
 
-### What is a “Learning Objective”
+### What is a “Topic”
 
-A  “Learning Objective” is one or more statements in the Introduction task about a topic or information that will be covered or taught in an instructional content module. A module can have one or more learning objectives. Each objective should be confined to a single idea. 
-
-#### Examples of Learning Objectives
-
--  Introduce and explain numeric systems used in computing
--  How to use Wireshark to identify network traffic.
--  Explore the principles of basic network reconniassance.
--  Introduce the nmap tool.
--  How nmap can be used to ...
--  How to dissect specific protocol headers.
+A  “Topic” is one or more statements in the Introduction task about information that will be covered or taught in an instructional content module. 
 
 ### Requirements
-- A module will have a minimum of three (3) objectives.
-- Objectives must be included in the Introduction task.
-- Objectives are identified with an H3 title labeled "Learning Objectives".
-- Objectives are presented in a bulleted list format.
-- Each objective ends with a period.
-- Each objective has a maximum of 120 characters.
+- A module will have a minimum of three (3) topics.
+- Topics must be included in the Introduction task.
+- Topics are identified with an H2 title labeled "Topics".
+- Topics are presented in a bulleted list format.
+- Each topic ends with a period.
+- Each topic has a maximum of 120 characters.
 
 ## References and Footnotes
-NOTE: Prefer to change this to just "objectives" or "goals" to help eliminate confusion between this and "learning outcomes". I think there are some business reasons for having both objectives and outcomes, and both can serve a purpose. But they also need to be distinctive, and having dissimilar labels will help to achieve that.  
 
-NOTE: If certain components of assessment modules, of which this is one, will require unique CEPs, then the reference to assessment modules may be able to be removed from this.  
-
-NOTE: Revisit the minimum of 3 objectives (reason for any minimums should be discussed in the rationale).  
-
-NOTE: Why is there a 120-character limitation? (This should be stated in the rationale.)
-
+[CEP 2032: Learning Outcome Requirements for Instructional Modules](../2032/README.md)

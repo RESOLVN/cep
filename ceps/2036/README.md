@@ -1,4 +1,4 @@
-# CEP 2036: Amount of Instructional Knowledge Checks
+# CEP 2036: Knowledge Checks, Instructional, Amount
 
 ## Abstract
 

@@ -1,4 +1,4 @@
-# CEP 2000: Learning Topics List
+# CEP 2000: Introduction Module Topics List
 
 ## Abstract
 

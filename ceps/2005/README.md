@@ -1,4 +1,4 @@
-# CEP 2005: Module Introduction Task Requirement
+# CEP 2005: Introduction Task Requirement
 
 
 ## Abstract
@@ -27,23 +27,22 @@ Prerequisite skills are optional. They are minimum skills that the user/student 
 Skills are optional because modules can serve different purposes. An assessment module, or one used for a CTF event, may not need to list skills. Skills, however, can be useful when a sequential progression of training modules is not enforced. In such a case, they alert the user to the skills that are necessary to be successful in the current module.
 
 #### Picture
-The picture in the introduction is typically a conceptual image that represents the subject of the module. It can be an illustration, photo or other type of image.  
+The picture in the introduction is typically a conceptual image that represents the subject of the module. It can be an illustration, photo or other type of image. No header is required. 
 
 #### Description
-The description is a paragraph that provides a brief summary of the module. It should not be a rehash of the Learning Objectives or Learning Outcomes. Nonetheless, as a writing guideline, consider that this paragraph ought to be able to stand on its own (without objectives or outcomes) and still provide the user with a solid idea of what will take place in the module.
+The description is a paragraph that provides a brief summary of the module. It should not be a rehash of the Topics list or Learning Outcomes. As a writing guideline, consider that this paragraph ought to be able to stand on its own (without topics or outcomes) and still provide the user with a solid idea of what will take place in the module. No header is required.
 
-#### Objectives, Outcomes, Toolkit
-See related CEPs.
+#### Topics, Learning Outcomes, Toolkit
+See related CEPs. Each of these items requires an H2 header.
 
 ### Requirements
 
 The information below must be included in the order listed. All are required unless stated otherwise.
 * The task title box contains the verbiage "Introduction to \[module title\]".
 * "Estimated time to complete \[module title\]: xxx"
-* (optional) "Prerequisite Skills"
 * Picture
 * Description of the module, at least one paragraph.
-* "Learning Objectives" in H2 style.
+* "Topics" in H2 style.
 * "Learning Outcomes" in H2 style.
 * "Toolkit" in  H2 style.
 
@@ -52,6 +51,6 @@ The information below is optional. If used, it follows 'Estimated time to comple
 
 ## References and Footnotes
 
-* CEP for [Learning Objectives](ceps/2000/README.md)
+* CEP for [Learning Topics](ceps/2000/README.md)
 * CEP for [Learning Outcomes](ceps/2032/README.md)
 * CEP for [Toolkit](ceps/2006/README.md)

@@ -18,7 +18,7 @@ The use of three or more knowledge checks for a given Learning Outcome may be us
 * To align with the level of the difficulty of the module (intermediate or advanced sections of an instructional program), with each knowledge check addressing a different cognitive category.
 * In any level module where application of a formula, procedure or process may be prone to error by user's who have not yet mastered it.
 
-Knowledge checks should occur at the conclusion of a topic that aligns with the learning Objectives. If a topic is lengthy and/or includes multiple concepts or sub-topics, it is suggested to have not more than one knowledge check between each sub-topic. This provides the user with an opportunity for assessment and review before moving on to a new related topic. Too many knowledge checks at this point, however, may interrupt the user's learning flow.
+Knowledge checks should occur at the conclusion of a topic that aligns with the Topics list in the Introduction task. If a topic is lengthy and/or includes multiple concepts or sub-topics, it is suggested to have not more than one knowledge check between each sub-topic. This provides the user with a brief opportunity for assessment and review before moving on to a new related topic. Too many knowledge checks at this point, however, may interrupt the user's learning flow.
 
 ## Specification
 

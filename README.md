@@ -11,7 +11,7 @@ Welcome to CEP. The goal of this project is to make standards and guidelines tha
 ### Accepted CEPs (approved; not implemented yet)
 
 -  [CEP 2001: Knowledge Check Formatting and Style Requirements](ceps/2001/README.md)
--  [CEP 2002: Question Type Requirements](ceps/2002/README.md)
+-  [CEP 2002: Knowledge Check Type Requirements](ceps/2002/README.md)
 -  [CEP 2003: Question Point Requirements](ceps/2003/README.md)
 -  [CEP 2004: Question Retry Requirements](ceps/2004/README.md)
 -  [CEP 2005: Module Introduction Task Requirement](ceps/2005/README.md)
@@ -20,7 +20,7 @@ Welcome to CEP. The goal of this project is to make standards and guidelines tha
 
 ### Suggested CEPs (under consideration and open)
 
--  [CEP 2000: Learning Topics List](ceps/2000/README.md)
+-  [CEP 2000: Introduction Module Topics List](ceps/2000/README.md)
 -  [CEP 2008: Task Title Requirements](ceps/2008/README.md)
 -  [CEP 2009: Paragraph Requirements](ceps/2009/README.md)
 -  [CEP 2010: Module Code Format and Style Requirements](ceps/2010/README.md)

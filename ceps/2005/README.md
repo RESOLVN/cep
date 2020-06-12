@@ -11,20 +11,25 @@ This aim of this CEP is to specify what information is to be included in the int
 
 The introduction is intended to prepare the student for the module. By indicating what the module will cover and what the student's outcomes should be, it enables the student to begin to assess what they already know and what they don't know, and become engaged in the topic.  
 
-If you violate these conventions it will not allow for programmatic identification of the Introduction card in modules(and the sections in them) and degrade the value of module. Following this CEP is critical for a unified user experience.  
+Use these conventions to allow for programmatic identification of the Introduction card in modules (and the sections in them). This CEP is critical for a unified user experience.  
 
 ##Specifications
 
 ### What is a “Module Introduction Card”
 
-A “Module Introduction Card” is the first task in a content module. It provides an overview of the module and contains various components, which are described below.
+A “Module Introduction Card” is the first task in a content module. It provides an overview of the module and contains the components, described below, in the order they should occur.
+
  #### Estimated time to complete
-The estimated time it is expected to take to finish the module is displayed at the top of the body of the module, above the concept image. This information is programmatically derived from metadata. Therefore, while the author needs to add this information as metadata, they do not need to include any verbiage in the module related to the module duration.
+The estimated time it is expected to take to finish the module is displayed at the top of the body of the module, above the concept image. Eventually, this information will be programmatically derived from metadata. Therefore, the author needs to add this information as metadata, and also enter the content "Estimated time to complete: xxx"
 
-#### Prerequisite Skills
-Prerequisite skills are optional. They are minimum skills that the user/student needs in order to do any activities in the module, and which are not included in instructions. As a simple example, in an instructional module, if the user needs to navigate through a file system in a command or terminal window, they need to know basic navigation commands such as cd and ls. Thus, 'basic navigation commands' might be a prereq skill. If, however, the activity provides the necessary commands, they do not need to be considered a prereq skill.
+#### Key Skills Needed
+Key skills are the minimum skills that the user/student needs in order to do any activities in the module, and for which instruction is not otherwise provided in the current module. For example, if the user needs to navigate through a file system in a command or terminal window, they need to know commands such as `cd` and `ls`. Thus, "basic Command Prompt/Terminal window navigation commands" might be a key skill needed. If, however, a task in the module provides steps that include the `cd` and `ls` commands, the user does not need these basic navigation command skills.
 
-Skills are optional because modules can serve different purposes. An assessment module, or one used for a CTF event, may not need to list skills. Skills, however, can be useful when a sequential progression of training modules is not enforced. In such a case, they alert the user to the skills that are necessary to be successful in the current module.
+The key skills do not need to be comprehensive. They do not need to include every conceivable skill that will be utilized. And higher level modules do not need to include every skill down to the foundational level. As an example, if network configuration is a key skill, it's not necessary to also list SSH, DHCP, routers, subnets, etc. The aim is to provide the student or user with a sense of whether they what they need to successfully complete the module. 
+
+In instructional modules, a skills-needed list is useful when a sequential progression of  modules is not enforced. In this case, the list may indicate to the user that they need to first acquire another skill.
+
+In challenge modules, there is usually an assumption that the user has a higher level of skills. Therefore, it may be sufficient to list skill _sets_, such as "Windows system administration".
 
 #### Picture
 The picture in the introduction is typically a conceptual image that represents the subject of the module. It can be an illustration, photo or other type of image. No header is required. 
@@ -39,18 +44,16 @@ See related CEPs. Each of these items requires an H2 header.
 
 The information below must be included in the order listed. All are required unless stated otherwise.
 * The task title box contains the verbiage "Introduction to \[module title\]".
-* "Estimated time to complete \[module title\]: xxx"
-* Picture
-* Description of the module, at least one paragraph.
+* "Estimated time to complete: xxx" (no header)
+* "Key Skills Needed" in H2 style.
+* Picture (no header).
+* Description, at least one paragraph (no header).
 * "Topics" in H2 style.
 * "Learning Outcomes" in H2 style.
-* "Toolkit" in  H2 style.
-
-The information below is optional. If used, it follows 'Estimated time to complete'.
-* "Prerequisite Skills" in H2 style.
+* "Toolkit" in H2 style.
 
 ## References and Footnotes
 
-* CEP for [Learning Topics](ceps/2000/README.md)
-* CEP for [Learning Outcomes](ceps/2032/README.md)
-* CEP for [Toolkit](ceps/2006/README.md)
+* CEP 2000 for [Introduction Module Topics List](ceps/2000/README.md)
+* CEP 2032 for [Learning Outcome Requirements for Instructional Modules](ceps/2032/README.md)
+* CEP 2006 for [Module Toolkit Requirements](ceps/2006/README.md)

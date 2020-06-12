@@ -13,7 +13,9 @@ The aim of this CEP is to standardize rules and guidelines for the various types
 
 ### What is a “Response Type”
 
-A knowledge check task type refers to the **Response Type** selected in the Action part of a question task.
+A knowledge check type refers to the **Response Type** selected in the Action part of a question task in the SimSpace Portal.
+
+Eventually, certain aspects of this standard will be able to be validated by a program, and the author will be presented with an error or a warning. As of June 2020, this is not the case. You should still adhere to the standard to eliminate issues with backward compatibility.
 
 ### Response Type Options:
 
@@ -35,7 +37,7 @@ Avoid trying to trick the user. Avoid distracting the user with unnecessary info
 
 Do not use knowledge checks with true or false options. Multiple Choice types require a minimum of four options, so true/false construction will be flagged as an error.
 
-####Type: Selections
+#### Type: Selections
 
 Use Selections when you want the student to select more than one option as correct. (If there is one correct option, use the Multiple Choice type.)
 
@@ -47,7 +49,7 @@ As of June 2020, add the note below to all knowledge checks that use the Selecti
 
 _NOTE: If the combination of selections is incorrect, a red X displays on all selections, including those that are correct._
 
-####Type: Multiple Choice
+#### Type: Multiple Choice
 
 Use Multiple Choice when there is one correct answer.
 
@@ -57,24 +59,24 @@ Do not use "none" or "all" types of options, such as "none of the above".
 
 If the answer is used to complete a sentence, the missing word or phrase should be at the end of the sentence. A fill-in that occurs in the middle requires the student to focus their cognitive efforts on the mechanics of the stem, and not the content.
 
-####Type: Short Answer
+#### Type: Short Answer
 
-In Short Answer response types, the student must enter an actual value, word or phrase.
+In Short Answer response types, the student must enter a value, word or phrase.
 
-Short Answer requires exactness and is therefore unforgiving. If the correct answer could use upper or lower case letters, you will need to enter alternative answers in different case modes. One way to avoid this is to specify the case mode to use. Similarly, certain numeric values with more than three digits could be expressed with a comma. Also be careful of answers that could be considered correct when used with or without spaces, dashes or other punctuation. For these reasons, provide an example of the format or syntax of the answer.
+Short Answer requires exactness and is therefore unforgiving. If the correct answer could be provided using upper or lower case letters, you  need to enter alternative answers in different case modes. One way to avoid this is to specify the case mode the student should use. Similarly, certain numeric values with more than three digits could be expressed with a comma. Also be careful of answers that could be considered correct when used with or without spaces, dashes or other punctuation. For these reasons, provide an example of the format or syntax of the answer.
 
-Example of an example:  
-"Enter the three-letter domain type of the malicious actor."  
-"(For example: .edu)"
+Sample instructional for responding to a short-answer:  
+Enter the three-letter domain type of the malicious actor.  
+(For example: .edu)
 
  ### Requirements
 
-* Selections type must have a minimum of two correct answers.
-* Selections type must have an italicized note that reads:
+* "Selections" type must have a minimum of two correct answers.
+* "Selections" type must have an italicized note that reads:
     * NOTE: If the combination of selections is incorrect, a red X displays on all selections, including those that are correct.
-*    Multiple Choice type must have a minimum of four answer options.
-*    Short Answer type must provide answer format information.
-*    Short Answer type must provide an answer example.
+*    "Multiple Choice" type must have a minimum of four answer options.
+*    "Short Answer" type must provide answer format information.
+*    "Short Answer" type must provide an answer example.
 
 ## References and Footnotes
 

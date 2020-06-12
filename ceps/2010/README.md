@@ -26,7 +26,7 @@ Examples:
 
 ####Code Styles vs. Screen Snaps
 
-Use code styles when you intend for the user to replicate the code exactly. The code style is usually easier to read for this purpose.
+Use code styles when you intend for the user to replicate the code exactly. The code style is usually easier to read for this purpose, and enables the user to copy/paste the code.
  
 A screen snap is a better approach when you are providing an example of something that includes results or feedback, or that you don't expect the user to repeat verbatim. (Be sure to indicate that the image represents an example.) For screen snaps -- especially when extensive code is involved -- use the standards in [CEP 2038: Images: Screen Snaps](../2038/README.md) or [CEP 2007: Module Image Requirements](../2007/README.md).
 

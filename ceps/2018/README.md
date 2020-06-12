@@ -21,3 +21,4 @@ This CEP documents content module best practices for those that involve hands on
 
 ## References and Footnotes
 
+NOTE: (5/28/20) Depreciated. No longer needed, because there is a now distinction between question and information tasks.

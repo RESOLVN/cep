@@ -10,7 +10,7 @@ The aim of this CEP is to define "learning outcomes" and how they are to be stru
 
 Learning outcomes express what the student should or will be able to do upon completion of the module. This is expressed using measurable or observable verbs or terms. (The use of terms such as "will understand" or "will know" do not meet this criteria.) The importance of properly written outcomes is essential to the development and integrity of a module. Therefore this section goes into more detail than may be found in other CEPs. 
 
-####Terminology
+#### Terminology
 Within the training field, "Learning Outcomes" and "Learning Objectives" are frequently used interchangeably. As implemented for SimSpace, "Outcomes" is the chosen term, focusing on what the user will be be able to **do**.
 
 The use of the term "learning outcomes" has been informed, in part, by the following sources:
@@ -22,7 +22,7 @@ Education (NICE) Cybersecurity Workforce Framework.
 
 A widely used (and recommended) resource in training development is called Bloom's Taxonomy. It is a framework that outlines categories of cognitive processes, from lower order to higher order, with associated verbs for each process. Bloom's uses the term "learning objective", which equates to SimSpace _Learning Outcomes_.
 
-####Function of Outcomes
+#### Function of Outcomes
 Outcomes must assess performance-related knowledge, skills and abilities. For example, "use a command window to obtain an IP address" assesses the ability to use a command window. Whereas, "use the ipconfig command to determine the IP address" assesses the ability to use the appropriate command to obtain a specific piece of information. The former may be appropriate if the topic is is the use of a command window, whereas the latter is appropriate if the topic is about IP addresses.
 
 Using stringently written learning outcomes serves multiple purposes:
@@ -33,7 +33,7 @@ Using stringently written learning outcomes serves multiple purposes:
 
 The bottom line is that outcomes validate the integrity of the module -- that the learner will be able to do what the outcomes say they will be able to do, as verified (or not) by knowledge checks.
 
-####Writing Outcomes
+#### Writing Outcomes
 Learning outcomes form the basis of a module's content and organizational structure, and must therefore be written _before_ the instructional content and assessment questions. 
 
 A key to writing outcomes is the use of verbs. Bloom's Taxonomy is often used as a resource for "action" verbs, such as to identify, explain, use, compare, prepare or design. Bloom's, however, is more than verbs; it is a framework for developing learning based on the cognitive processes that learners encounter. As such, certain verbs are associated with lower order cognitive processes and others with higher order processes. Rather than randomly selecting verbs, it's worthwhile to consider where the knowledge check questions may fall on this continuum and choose your verbs accordingly. This continuum also aligns with the sequence of questions within the module, with lower order questions occuring first.
@@ -42,7 +42,7 @@ Due to SimSpace Portal limitations on the types of questions that can be used fo
 
 Here is a cheat sheet of [Bloom's Taxonomy Action Verbs.](https://www.apu.edu/live_data/files/333/blooms_taxonomy_action_verbs.pdf) Below are additional Bloom's resources.
 
-####Format
+#### Format
 Outcomes are presented in a bulleted list format and use periods at the end of each item, even if it is not a complete sentence. (The use of a period is subjective, but it is based on the idea that a period completes a thought or idea.) A lead-in sentence to the list of outcomes is not required because the heading "Learning Outcomes" speaks for itself.  
 
 Compliance with this convention facilitates programmatic identification of outcomes within modules. Adhering to this CEP is critical to a unified learner experience.

@@ -1,4 +1,4 @@
-# SimSpace Content Enhancement Proposal
+# Cyber Education Proposal
 
 Welcome to CEP. The goal of this project is to make standards and guidelines that will certify content material in the SimSpace portal platform. 
 

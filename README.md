@@ -54,7 +54,7 @@ Welcome to CEP. The goal of this project is to make standards and guidelines tha
 ### Implemented CEPs (completed, current best practices)
 
 ### Historical Meta-CEPs(Abandoned, Withdrawn, or Rejected CEPs)
-####Depreciated:
+#### Depreciated:
 -  [CEP 2011: Module Command Format and Style Requirements](ceps/2011/README.md)
 -  [CEP 2018: Content Module Hands On Requirements](ceps/2018/README.md)
 

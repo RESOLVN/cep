@@ -24,7 +24,7 @@ Examples:
 * Code block: "To define the variable, enter:"  
 ```myvar = "abc"```
 
-####Code Styles vs. Screen Snaps
+#### Code Styles vs. Screen Snaps
 
 Use code styles when you intend for the user to replicate the code exactly. The code style is usually easier to read for this purpose, and enables the user to copy/paste the code.
  

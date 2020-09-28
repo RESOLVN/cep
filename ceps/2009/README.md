@@ -11,7 +11,7 @@ The aim of this CEP is to standardize the high-level writing structure of paragr
 
 A paragraph is a single sentence or group of sentences that intentionally starts on a new line. A paragraph discusses a single idea. In some cases, a paragraph may consist of only one sentence.
 
-###Paragraph Length and Format
+### Paragraph Length and Format
 Paragraphs may not exceed 150 words. Paragraphs should be comprised of about 1-6 sentences, with each sentence having about 5-30 words. In general, sentences should be kept short and to the point. Using these parameters, along with subheads, bulleted lists and other style formatting devices improves organizational structure, facilitates the ability to find information and creates visual appeal.
 
 Paragraphs are to be separated by a blank line space.
@@ -25,19 +25,19 @@ In the Plain Writing Act of 2010, the US government undertook to implement "plai
 
 Additionally, the Simplified Technical English (STE) initiative was started in the 1980s by a consortium of European aerospace and defense organizations. This initiative recognized that English is the international language of science, technology and human relations, and is also the language of the aerospace and defense industry. As a result, STE aims to help the readers of English-language documentation understand what they read, particularly when they are non-native English speakers. It has since expanded globally and beyond the aerospace industry.
 
-####Punctuation
+#### Punctuation
 Within a paragraph, sentences are separated with a single space. Where four or more items are separated by commas, consider whether using a bulleted list could be an option.
 
 Do not use semicolons, and only rarely a colon, dash or ellipsis. In almost all cases, there are alternatives for those types of punctuation that express an idea more clearly. Using such punctuation can be a distraction, and is subject to improper usage.
 
-####Verb Tense and Voice
+#### Verb Tense and Voice
 Use present verb tense and an active voice.  
  No: "If no user is specified, the ssh command will attempt to ..."  
  Yes: "If no user is specified, the ssh command attempts to ..."  
  No: "It is responsible for bringing together all the hardware ..."  
  Yes: "It brings together all the hardwar e..."
  
-####Adjectives
+#### Adjectives
 Avoid adjectives that refer to relative points in time.   
 No: "**Current** versions of Windows ..."  
 Yes: "Windows 8 and later ..."  
@@ -52,7 +52,7 @@ Yes: "This command can save you time by not ..."
 No: "Running xyz command can take a **long** time, therefore ..."  
 Yes: "Running xyz command often takes more than two hours, therefore ..."  
 
-####Point of View
+#### Point of View
 Point of view is also called "voice narrative" and refers to first-person, second-person or third-person pronouns. Examples are:
 * First-person: I, we, us, my
 * Second-person: You
@@ -73,7 +73,7 @@ Alternatives:
 - "Be sure to factor in ..."
 - "A previous section described ..."
 
-####Slang and Shortcuts
+#### Slang and Shortcuts
 Avoid short-cut or slang-like versions of words such as demo, demoing, info. Better to say demonstrate, demonstrating, information.
 
 Avoid idioms and expressions. ("A dime a dozen." A system that becomes "hosed". Things that are neat, cool, dope, whacked, wicked.)

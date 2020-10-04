@@ -26,7 +26,7 @@ Compliance with this convention facilitates programmatic identification of quest
 
  A knowledge check is a sentence or phrase that requests information or knowledge about the content that precedes a given knowledge check task. The components of a knowledge check are described below.
  
- #### Scenario
+#### Scenario
  A scenario describes a situation related to a knowledge check. A scenario precedes the request and is presented in the default paragraph format. It might be a brief story or incident that applies to the assignment.
 
 #### Steps

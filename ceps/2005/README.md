@@ -13,13 +13,13 @@ The introduction is intended to prepare the student for the module. By indicatin
 
 Use these conventions to allow for programmatic identification of the Introduction card in modules (and the sections in them). This CEP is critical for a unified user experience.  
 
-##Specifications
+## Specifications
 
 ### What is a “Module Introduction Card”
 
 A “Module Introduction Card” is the first task in a content module. It provides an overview of the module and contains the components, described below, in the order they should occur.
 
- #### Estimated time to complete
+#### Estimated time to complete
 The estimated time it is expected to take to finish the module is displayed at the top of the body of the module, above the concept image. Eventually, this information will be programmatically derived from metadata. Therefore, the author needs to add this information as metadata, and also enter the content "Estimated time to complete: xxx"
 
 #### Key Skills Needed

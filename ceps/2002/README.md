@@ -69,7 +69,7 @@ Sample instructional for responding to a short-answer:
 Enter the three-letter domain type of the malicious actor.  
 (For example: .edu)
 
- ### Requirements
+### Requirements
 
 * "Selections" type must have a minimum of two correct answers.
 * "Selections" type must have an italicized note that reads:

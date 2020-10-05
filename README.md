@@ -50,7 +50,7 @@ Welcome to CEP. The goal of this project is to make standards and guidelines tha
 -  [CEP 2036: Knowledge Checks, Instructional, Amount](ceps/2036/README.md)
 -  [CEP 2037: Citations and References](ceps/2037/README.md)
 -  [CEP 2038: Images: Screen Snaps](ceps/2038/README.md)
--  [CEP 2038: Passwords: Screen Snaps](ceps/2039/README.md)
+-  [CEP 2038: Virtual Environment Authentication](ceps/2039/README.md)
 
 ### Implemented CEPs (completed, current best practices)
 

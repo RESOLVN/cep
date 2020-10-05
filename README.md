@@ -41,7 +41,7 @@ Welcome to CEP. The goal of this project is to make standards and guidelines tha
 -  [CEP 2027: Content Module Estimated Time Mapping Requirements](ceps/2027/README.md)
 -  [CEP 2028: Content Module Overview Requirements](ceps/2028/README.md)
 -  [CEP 2029: Content Module Prerequisites Requirements](ceps/2029/README.md)
--  [CEP 2030: Event Package Requirements](ceps/2030/README.md)
+-  [CEP 2030: Structured Content Plans Requirements](ceps/2030/README.md)
 -  [CEP 2031: Event Range Requirements](ceps/2031/README.md)
 -  [CEP 2032: Learning Outcome Requirements for Instructional Modules](ceps/2032/README.md)
 -  [CEP 2033: Module Task Chain Requirements](ceps/2033/README.md)

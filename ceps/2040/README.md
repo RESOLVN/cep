@@ -16,6 +16,7 @@ To ensure that Module <-> Network Spec <-> Clone Source remains a one-to-one-to-
  2. Author goes into the existing Network Spec for that module and creates a deployment from that module's Clone Source.
  3. Author clicks the ellipses button next to the new deployment and selects `Reassign` (pictured below)
 4. Author creates a separate Network Spec for this new range build.
+
 ![reassign](reassign.png)
  
  ### Range Minimization

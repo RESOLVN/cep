@@ -51,7 +51,8 @@ Welcome to CEP. The goal of this project is to make standards and guidelines tha
 -  [CEP 2037: Citations and References](ceps/2037/README.md)
 -  [CEP 2038: Images: Screen Snaps](ceps/2038/README.md)
 -  [CEP 2039: Virtual Environment Authentication](ceps/2039/README.md)
-
+-  [CEP 2040: Clone Source Best Practice](ceps/2040/README.md)
+-  [CEP 2041: CDEV Red Team Tradecraft Best Practice](ceps/2041/README.md)
 ### Implemented CEPs (completed, current best practices)
 
 ### Historical Meta-CEPs(Abandoned, Withdrawn, or Rejected CEPs)

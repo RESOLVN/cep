@@ -1,4 +1,4 @@
-# SimSpace Content Enhancement Proposal
+# Cyber Education Proposal
 
 Welcome to CEP. The goal of this project is to make standards and guidelines that will certify content material in the SimSpace portal platform. 
 
@@ -41,7 +41,7 @@ Welcome to CEP. The goal of this project is to make standards and guidelines tha
 -  [CEP 2027: Content Module Estimated Time Mapping Requirements](ceps/2027/README.md)
 -  [CEP 2028: Content Module Overview Requirements](ceps/2028/README.md)
 -  [CEP 2029: Content Module Prerequisites Requirements](ceps/2029/README.md)
--  [CEP 2030: Event Package Requirements](ceps/2030/README.md)
+-  [CEP 2030: Structured Content Plans Requirements](ceps/2030/README.md)
 -  [CEP 2031: Event Range Requirements](ceps/2031/README.md)
 -  [CEP 2032: Learning Outcome Requirements for Instructional Modules](ceps/2032/README.md)
 -  [CEP 2033: Module Task Chain Requirements](ceps/2033/README.md)
@@ -50,11 +50,13 @@ Welcome to CEP. The goal of this project is to make standards and guidelines tha
 -  [CEP 2036: Knowledge Checks, Instructional, Amount](ceps/2036/README.md)
 -  [CEP 2037: Citations and References](ceps/2037/README.md)
 -  [CEP 2038: Images: Screen Snaps](ceps/2038/README.md)
-
+-  [CEP 2039: Virtual Environment Authentication](ceps/2039/README.md)
+-  [CEP 2040: Clone Source Best Practice](ceps/2040/README.md)
+-  [CEP 2041: CDEV Red Team Tradecraft Best Practice](ceps/2041/README.md)
 ### Implemented CEPs (completed, current best practices)
 
 ### Historical Meta-CEPs(Abandoned, Withdrawn, or Rejected CEPs)
-####Depreciated:
+#### Depreciated:
 -  [CEP 2011: Module Command Format and Style Requirements](ceps/2011/README.md)
 -  [CEP 2018: Content Module Hands On Requirements](ceps/2018/README.md)
 

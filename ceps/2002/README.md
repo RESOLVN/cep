@@ -47,7 +47,7 @@ As of June 2020: If at least one of the selected options is incorrect, **all** s
 
 As of June 2020, add the note below to all knowledge checks that use the Selections response type:
 
-_NOTE: If the combination of selections is incorrect, a red X displays on all selections, including those that are correct._
+_NOTE: If the combination of selections is incorrect, the attempt is marked incorrect. If attempts remain, modify your selections and Retry._
 
 #### Type: Multiple Choice
 

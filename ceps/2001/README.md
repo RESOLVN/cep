@@ -1,46 +1,55 @@
+# CEP 2001: Question Task Formatting
 # CEP 2001: Knowledge Check Formatting and Style Requirements
 
 ## Abstract
 
-This CEP documents the semantics, syntax and conventions associated with the format and style of knowledge checks in training and assessment modules. (For information about the number of knowledge checks, use of retries, hints and point values, refer to related knowledge check CEPs.) 
+This CEP describes the visual format to use for question task types in training and assessment modules. (For information about the number of question tasks, use of retries, hints and point values, refer to related "Question" CEPs.)
 
 ## Rationale
 
-The aim of this CEP is to standardize on the presence and the presentation of knowledge checks in training and assessment modules. Refer to other CEPs for a complete understanding of knowledge checks, including but not limited to, the formulation or construction of wording, point values, retry attempts and use of hints.
+The aim of this CEP is to standardize on how question tasks are presented in terms of the content or information that is included in such a task, and the visual styles (such as bold) to use.
 
-Note: Within the SimSpace Portal content creation interface, the task for a knowledge check is labeled "question", even though the knowledge check may not be worded as an actual question. This and related CEPs therefore use the term "knowledge check".
+Refer to other CEPs for a complete understanding of question tasks, including but not limited to, the wording for various types of questions, formulation of questions, point values, retry attempts and use of hints.
 
- "Presence" refers to the location of knowledge checks within a module, and how many are required.
- 
- "Presentation" refers to the style format of knowledge checks.
- 
- A knowledge check can contain various components. These are described below under **_Specifications_**.
- 
- Using these guidelines provides consistency in how knowledge checks are presented (or displayed). This allows the student to spend more of their time and effort focusing on the content and task, and less cognitive activity and time being spent on processing the mechanics of the knowledge check function.
- 
-Compliance with this convention facilitates programmatic identification of questions within modules. Using this CEP is critical to a unified user experience. 
+Within the content creation interface of the SimSpace Portal, the "question" task type allows the author to choose a response type, and to insert correct and incorrect answers.
+
+Using these guidelines provides consistency in how question tasks are presented (or displayed). This allows the student to anticipate a similar or common experience for all question tasks, instead of having to decode different approaches taken by various authors.
+
+Compliance with this convention facilitates programmatic identification of questions within modules. Using this CEP is critical to a unified user experience.
+
+NOTE: Question tasks used in instructional modules created by SimSpace use the prefix "Knowledge Check" in the task title. It is suggested to adopt this practice because not implies a review of knowledge or information presented previously, and while it does require a response, it may not phrased as a literal question.
 
 ## Specification
 
-### What is a “knowledge check”
+### What is a “question”
 
- A knowledge check is a sentence or phrase that requests information or knowledge about the content that precedes a given knowledge check task. The components of a knowledge check are described below.
- 
-#### Scenario
- A scenario describes a situation related to a knowledge check. A scenario precedes the request and is presented in the default paragraph format. It might be a brief story or incident that applies to the assignment.
+A question or "knowledge check" requests a response from the student. It may not literally use a question mark, but the student must respond in some manner in order to complete the module satisfactorily.
 
-#### Steps
-Steps describe specific actions the student must take in order to be able to respond to the assignment. A single step contains one and only one action. Steps precede the assignment and use the numbered list format.
+A question/knowledge check may contain the following components:
+- Scenario
+- An action
+- Assignment
+- An example response
+- A note
+
+The assignment is required. All other components are optional.
 
 #### Assignment
-The **assignment** is the question or action to which the student must provide an answer or response. It uses the H2 style. The H2 style is bold, which distinguishes the assignment from all other components of the knowledge check. Therefore, no other component of the knowledge check should be bold or use H2. The assignment is an independent paragraph, 1-2 sentences, maximum 120 words each. The assignment includes the instructions for providing the response.
+Required. The **assignment** is the question or action to which the student must provide an answer or response.
 
-#### Response/Answer Instruction
-Instructions may be presented as part of the assignment sentence or as a separate sentence in the same paragraph (using the H2 style). The instruction provides the method to submit a response, such as whether to select one or more of the available choices, or whether to enter text in a box field. Authors should not assume that the method for providing a response is obvious. Examples of instructions are listed below.
+Instructions should be presented as part of the assignment sentence or as a separate sentence in the same paragraph. The instruction provides the method for submitting a response, such as whether to select one or more of the available choices, or to enter text in a field. Authors should not assume that the method for providing a response is obvious. Examples of instructions are listed below.
 * _Select the answer that best describes how to ...._
 * _Choose all of the options that apply._
 * _Enter the 4-digit value for ..._
 * _Enter the name of the file, including the file type extension._
+
+Use the H2 style. The assignment is the only component of the question task that uses H2. The assignment paragraph  contains 1-2 sentences, maximum 120 words each.
+
+#### Scenario
+A scenario describes a situation related to a question. A scenario precedes the request and uses the default paragraph format. It might be a brief story or incident that applies to the assignment.
+
+#### Steps
+Steps describe specific actions the student must take in order to be able to respond to the assignment. A single step contains one and only one action. Steps precede the assignment and use the numbered list format.
 
 #### Example Response/Answer
 An example of a response is typically needed only for short answer assignment, and then not always. An example response is presented on a new line, in parentheses, preceded with a phrase such as "For example:", and uses the default paragraph style, italicized. Examples of example responses are provided below:

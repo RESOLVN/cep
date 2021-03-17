@@ -1,4 +1,4 @@
-# CEP 2030: Event Package Requirements
+# CEP 2030: Structured Content Plans Requirements
 
 ## Abstract
 
